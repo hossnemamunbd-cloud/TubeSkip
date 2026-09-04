@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">টিউবস্কিপ - ভিডিও ব্লকার</string>
+    <string name="accessibility_service_label">টিউবস্কিপ অটো-স্কিপ সার্ভিস</string>
+    <string name="accessibility_service_description">ইউটিউব ভিডিওর টাইটেল এবং ডেসক্রিপশন নিরীক্ষণ করে আপনার যুক্ত করা কীওয়ার্ড অনুযায়ী অবাঞ্ছিত ভিডিও ও শর্টস অটোমেটিক স্কিপ করে।</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">ড্যাশবোর্ড</string>
+    <string name="nav_keywords">কীওয়ার্ডসমূহ</string>
+    <string name="nav_curated">ব্লকিং প্যাক</string>
+    <string name="nav_logs">হিস্টোরি</string>
+    <string name="nav_settings">সেটিংস</string>
+    
+    <!-- Dashboard -->
+    <string name="service_active">অটো-স্কিপ সক্রিয়</string>
+    <string name="service_inactive">সার্ভিস নিষ্ক্রিয়</string>
+    <string name="enable_service">এক্সেসিবিলিটি সার্ভিস চালু করুন</string>
+    <string name="service_running_desc">টিউবস্কিপ সক্রিয়ভাবে আপনার ইউটিউব ফিড ফিল্টার করছে।</string>
+    <string name="service_disabled_desc">ভিডিওর টাইটেল চিহ্নিত করে অটো স্কিপ করতে এক্সেসিবিলিটি পারমিশন দিন।</string>
+    <string name="stat_total_skipped">মোট স্কিপ করা হয়েছে</string>
+    <string name="stat_shorts_skipped">শর্টস স্কিপড</string>
+    <string name="stat_videos_skipped">ভিডিও স্কিপড</string>
+    <string name="stat_time_saved">বাঁচানো সময়</string>
+    
+    <!-- Tester / Simulator -->
+    <string name="sim_title">কীওয়ার্ড ম্যাচ সিমুলেটর</string>
+    <string name="sim_hint">পরীক্ষা করতে ভিডিওর নাম লিখুন…</string>
+    <string name="sim_test_button">টাইটেল টেস্ট করুন</string>
+    <string name="sim_match_found">ম্যাচ পাওয়া গেছে! এই ভিডিওটি অটো-স্কিপ হবে</string>
+    <string name="sim_no_match">কোনো কীওয়ার্ড মেলেনি। ভিডিও স্বাভাবিক চলবে</string>
+    
+    <!-- Actions -->
+    <string name="action_add_keyword">কীওয়ার্ড যোগ করুন</string>
+    <string name="action_import">ইম্পোর্ট</string>
+    <string name="action_export">এক্সপোর্ট</string>
+    <string name="action_clear_all">সব মুছুন</string>
+    <string name="action_save">সংরক্ষণ</string>
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_delete">মুছুন</string>
+    <string name="action_edit">এডিট</string>
+</resources>

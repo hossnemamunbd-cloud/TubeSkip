@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TubeSkip - Video Blocker</string>
+    <string name="accessibility_service_label">TubeSkip Auto-Skip Service</string>
+    <string name="accessibility_service_description">Monitors YouTube video titles and descriptions on your device to automatically skip videos and Shorts that match your blocked keyword rules.</string>
+    
+    <!-- Privacy Policy & Disclosures -->
+    <string name="privacy_policy_url" translatable="false">https://sites.google.com/view/tubeskip-privacy-policy/policy</string>
+    <string name="disclaimer_url" translatable="false">https://sites.google.com/view/tubeskip-privacy-policy/disclaimer</string>
+    <string name="contact_url" translatable="false">https://sites.google.com/view/tubeskip-privacy-policy/contact</string>
+    <string name="google_privacy_policy_url" translatable="false">https://policies.google.com/privacy</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="accessibility_disclosure_title">Accessibility Permission Disclosure</string>
+    <string name="accessibility_disclosure_message">This app uses Android AccessibilityService to detect visible YouTube interface text and perform user-defined video skipping. Accessibility data is used only for this functionality.</string>
+    
+    <!-- Google AdMob IDs -->
+    <string name="admob_banner_ad_unit_id" translatable="false">ca-app-pub-4515903668953837/4814912161</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-4515903668953837~9998016739</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_keywords">Keywords</string>
+    <string name="nav_curated">Curated Packs</string>
+    <string name="nav_logs">History</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="service_active">Auto-Skip Active</string>
+    <string name="service_inactive">Service Inactive</string>
+    <string name="enable_service">Enable Accessibility Service</string>
+    <string name="service_running_desc">TubeSkip is actively protecting your YouTube feed.</string>
+    <string name="service_disabled_desc">Grant Accessibility Permission to allow TubeSkip to detect video titles and auto-skip.</string>
+    <string name="stat_total_skipped">Total Skipped</string>
+    <string name="stat_shorts_skipped">Shorts Skipped</string>
+    <string name="stat_videos_skipped">Videos Skipped</string>
+    <string name="stat_time_saved">Est. Time Saved</string>
+    
+    <!-- Tester / Simulator -->
+    <string name="sim_title">Keyword Match Simulator</string>
+    <string name="sim_hint">Type or paste a video title to test…</string>
+    <string name="sim_test_button">Test Title</string>
+    <string name="sim_match_found">Match Found! Video will be AUTO-SKIPPED</string>
+    <string name="sim_no_match">No match. Video will play normally</string>
+    
+    <!-- Actions -->
+    <string name="action_add_keyword">Add Keyword</string>
+    <string name="action_import">Import</string>
+    <string name="action_export">Export</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+
+    <!-- Fallback App ID for Services -->
+    <string name="google_app_id" translatable="false">1:123456789012:android:0123456789abcdef012345</string>
+</resources>
+

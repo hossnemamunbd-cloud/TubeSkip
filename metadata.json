@@ -1,0 +1,6 @@
+{
+  "name": "TubeSkip - YouTube Video Blocker",
+  "description": "Smart YouTube video auto-skipper and keyword blocker for regular videos and Shorts with curated blocking lists, statistics, and multi-language support (Bangla & English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
